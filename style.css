@@ -309,7 +309,13 @@ section {
 
 .section-title ul li {
   padding: 15px;
+  margin: 15px;
 }	
+
+.section-title li {
+  padding: 15px;
+  margin: 15px;
+}
 
 /*--------------------------------------------------------------
 # About
