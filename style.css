@@ -308,14 +308,10 @@ section {
 }
 
 .count-box ul li {
-  padding: 15px;
-  margin: 15px;
+  padding: 6px;
 }	
 
-.count-box li {
-  padding: 15px;
-  margin: 15px;
-}
+
 
 /*--------------------------------------------------------------
 # About
